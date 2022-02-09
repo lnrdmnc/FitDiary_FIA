@@ -3,7 +3,7 @@
 # FitDiary
 
 <p align="center">
-<img alt="FitDiary Logo" width="460" height="300" src="logo/blackbg_whiteiapen/SVG/Asset 2.svg">
+<img alt="FitDiary Logo" width="460" height="300" src="https://github.com/rebeccadimatteo/FitDiary_FIA/blob/main/logo/blackbg_whiteiapen/SVG/Asset%202.svg">
 </p>
 
 > Progetto realizzato per il corso di Fondamenti di Intelligenza Artificiale - Università degli Studi di Salerno 2021/22
