@@ -41,6 +41,5 @@ Eseguire il file RegressioneNoFeatureScalingAndSelection.ipynb
   <img src="https://contrib.rocks/image?repo=rebeccadimatteo/FitDiary_FIA" />
 </a>
 
-Università degli Studi di Salerno
-Progetto di Fondamenti di Intelligenza Artificiale
+
 
